@@ -1,0 +1,10 @@
+fg 24610
+proclore 24610
+activities
+sleep 100 &
+activities
+hop /mnt/c/home/madhav3
+wslpath ~
+wslpath
+hop /mnt/c/Users/madha/OneDrive/Desktop/college assignments/bio
+hop ~

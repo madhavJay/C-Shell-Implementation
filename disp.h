@@ -1,0 +1,1 @@
+void get_prompt(char *prompt, char *home_dir, char *last_command, long exec_time);

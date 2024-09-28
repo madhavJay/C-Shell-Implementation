@@ -1,0 +1,1 @@
+void print_process_info(int pid, int bg);

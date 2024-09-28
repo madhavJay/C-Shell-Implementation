@@ -1,0 +1,2 @@
+void parse_command(char *input, char ***cmds, int *num_cmds, char **input_file, char **output_file, int *append);
+void print_parsed(char **cmds, int num_cmds, char *input_file, char *output_file, int append);

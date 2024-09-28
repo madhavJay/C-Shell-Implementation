@@ -1,0 +1,1 @@
+void fetchManPage(const char *command_name);

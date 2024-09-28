@@ -1,0 +1,1 @@
+void get_all(char *command, char *home_dir, int pipe, int log);

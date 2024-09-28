@@ -1,0 +1,9 @@
+#define PATH_MAX 4096
+#define CMD_MAX 4096
+#define COLOR_FILE "\x1B[0m"
+#define COLOR_DIRECTORY "\x1B[34m"
+#define COLOR_EXECUTABLE "\x1B[32m"
+#define MAX_LOG_SIZE 15
+#define LOG_FILE ".my_shell_log"
+#define MAX_ALIASES 100
+#define MAX_BUFFER_SIZE 1024

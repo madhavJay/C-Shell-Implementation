@@ -1,0 +1,1 @@
+void reveal(char *path, int a, int l, char *home_dir);
